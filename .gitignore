@@ -19,3 +19,5 @@ local.properties
 /app/src/main/res/xml/data_extraction_rules.xml
 /.idea/deploymentTargetDropDown.xml
 /.idea/misc.xml
+/.idea/git_toolbox_prj.xml
+/.idea/vcs.xml
